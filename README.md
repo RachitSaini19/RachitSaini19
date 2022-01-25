@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React based project
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular based project
 - 📫 How to reach me - rachitsaini0@gmail.com 
 
 <!---
